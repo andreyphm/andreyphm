@@ -1,3 +1,5 @@
-<h1 align="center">Hi there, I'm Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">MIPT Faculty of Radio Engineering and Computer Technologies student</h3>
+##  My [**CV**](https://github.com/andreyphm/andreyphm/blob/main/CV_KrokhinAA.pdf)
+
+<p align="center">
+  <img src="kitten-kitty.gif" width="600">
+</p>
