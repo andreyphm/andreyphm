@@ -1,3 +1,7 @@
+# About me
+
+2nd year Bachelor's student at DRCT MIPT. Interested in systems programming, compiler technologies and program analysis.
+
 ##  My [**CV**](https://github.com/andreyphm/andreyphm/blob/main/CV_KrokhinAA.pdf)
 
 <p align="center">
