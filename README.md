@@ -1,10 +1,29 @@
-# About me
+# Andrey Krokhin
 
-2nd year Bachelor's student at DRCT MIPT.  
-Interested in systems programming, compiler technologies and program analysis.
+I'm a second-year bachelor's student at MIPT, Department of Radio Engineering and Computer Technologies. I'm interested in systems programming, compiler technologies and program analysis.
 
-##  [**CV**](https://github.com/andreyphm/andreyphm/blob/main/CV_KrokhinAA.pdf)
+## Selected projects
 
-<p align="center">
-  <img src="kitten-kitty.gif" width="400">
+### C++
+
+- [triangles](https://github.com/andreyphm/triangles): an OpenGL visualizer of 3D triangle intersections, detected with exact geometric predicates.
+- [cache-research](https://github.com/andreyphm/cache-research): a research project on finding the optimal inclusive three-level cache system built from LFU, 2Q, ARC and LIRS caches.
+
+### C
+
+- [my-language](https://github.com/andreyphm/my-language): a compiler for a language with math-analysis-style syntax. It emits x86-64 NASM code or writes an ELF64 executable directly.
+- [differentiator](https://github.com/andreyphm/differentiator): a symbolic differentiator with a recursive descent parser, simplification and PDF output via LaTeX.
+
+## Contacts
+
+- Email: [andrewkrokhin@gmail.com](mailto:andrewkrokhin@gmail.com)
+- Telegram: [@andreyphm](https://t.me/andreyphm)
+- CV: [pdf](https://github.com/andreyphm/andreyphm/blob/main/CV_KrokhinAA.pdf)
+
+## Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyphm&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top languages"/>
+<br>
+  <img height="165" src="https://streak-stats.demolab.com/?user=andreyphm&theme=dark&hide_border=true&locale=en&timezone=Europe%2FMoscow&mode=daily&sections=total%2Ccurrent%2Clongest" alt="GitHub streak"/>
 </p>
