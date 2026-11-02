@@ -6,6 +6,7 @@ I'm a second-year bachelor's student at MIPT, Department of Radio Engineering an
 
 ### C++
 
+- [rank-queries-research](https://github.com/andreyphm/rank-queries-research): a research project comparing a sorted vector, std::set, an augmented AVL tree and a B-tree on rank queries over a dynamic set.
 - [triangles](https://github.com/andreyphm/triangles): an OpenGL visualizer of 3D triangle intersections, detected with exact geometric predicates.
 - [cache-research](https://github.com/andreyphm/cache-research): a research project on finding the optimal inclusive three-level cache system built from LFU, 2Q, ARC and LIRS caches.
 
