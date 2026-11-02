@@ -26,5 +26,5 @@ I'm a second-year bachelor's student at MIPT, Department of Radio Engineering an
 <p>
   <img height="165" src="profile/top-langs.svg" alt="Top languages"/>
 <br>
-  <img height="165" src="https://streak-stats.demolab.com/?user=andreyphm&theme=dark&hide_border=true&locale=en&timezone=Europe%2FMoscow&mode=daily&sections=total%2Ccurrent%2Clongest" alt="GitHub streak"/>
+  <img height="165" src="profile/streak.svg" alt="GitHub streak"/>
 </p>
